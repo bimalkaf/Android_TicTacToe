@@ -1,4 +1,3 @@
-# My_TicTacToe
 # Android Tic Tac Toe
 
 This is a simple Android Tic Tac Toe game developed as part of a tutorial.
